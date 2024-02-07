@@ -7,5 +7,3 @@ Among others I have contributed to the following open source projects:
 
 If you are interested in contributing to llama.cpp but don't know where to start
 I will happily answer your questions via Mumble; just send me an email.
-I accept sponsorship for my work on llama.cpp via [ko-fi](https://ko-fi.com/johannesgaessler).
-For the commission of a specific feature please instead contact me via email.
