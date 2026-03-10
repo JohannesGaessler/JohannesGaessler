@@ -9,7 +9,7 @@ If you are interested in contributing to llama.cpp but don't know where to start
 I will happily answer your questions via Mumble; just send me an email.
 
 <!---
-!!OM2Fp6Fn93S
 !!yhbFjk57TDr
-##IQQZHG
+u/remove_ayys
+DER RÜTTLER
 -->
