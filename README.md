@@ -8,6 +8,8 @@ Among others I have contributed to the following open source projects:
 If you are interested in contributing to llama.cpp but don't know where to start
 I will happily answer your questions via Mumble; just send me an email.
 
+Emailing me about a temporary ban will result in a permanent one instead.
+
 <!---
 !!yhbFjk57TDr
 u/remove_ayys
